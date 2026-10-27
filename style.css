@@ -2,7 +2,7 @@
     color-scheme: dark;
     font-family: "Segoe UI", Arial, sans-serif;
     color: #f4f2ff;
-    background: #100d1c;
+    background: #3333;
     font-synthesis: none;
     text-rendering: optimizeLegibility;
 }
@@ -16,8 +16,8 @@ body {
     margin: 0;
     padding: 48px 20px;
     background:
-        radial-gradient(ellipse at 15% 10%, #542a8c66, transparent 40%),
-        radial-gradient(ellipse at 85% 85%, #007d8b44, transparent 38%),
+        radial-gradient(ellipse at 15% 10%, #030433, transparent 40%),
+        radial-gradient(ellipse at 85% 85%, #39203f, transparent 38%),
         #100d1c;
 }
 
